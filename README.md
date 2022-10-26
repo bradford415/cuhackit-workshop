@@ -49,8 +49,8 @@ python -m jupyter lab
 5. Run the first two cells using ```shift+enter``` keys (the second cell has all the ```import``` statements)
     - The first cell downloads the libraries used in the notebook
     - The second cell imports the libraries which will ensure they installed correctly
-<img src="images/jupyter_4.JPG" width="200">
+<img src="images/jupyter_4.PNG">
 
-6. Everything is now setup properly if the first two cells run fine and do not produce any red output 
+6. If the first two cells run fine and do not produce any red output, everything is setup properly  
 
 
