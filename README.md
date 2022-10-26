@@ -1,5 +1,6 @@
 # Intro to Machine Learning Workshop
-Contains the Jupyter Notebook and setup/installations instructions to run the notebook locally.
+This repository contains the Jupyter Notebook and setup/installations instructions to run the workshop locally on Windows.
+
 ## Setup Instructions for Windows
 ### Installing Python
 1. Navigate to the [Python download page](https://www.python.org/downloads/windows/)
@@ -8,10 +9,10 @@ Contains the Jupyter Notebook and setup/installations instructions to run the no
 
 3. Select the ```Download Windows installer (64-bit)```
     - Really any Python version should work
-3. Launch the installation executable in the bottom left of your when it is ready
+3. Launch the installation executable in the bottom left of your screen (if you're using Google Chrome) when it is ready
 <img src="images/python_4.jpg" width="400">
 
-4. In the setup screen check ```Add Python 3.9 to PATH``` chekcbox and then blick ```Install Now```
+4. In the setup screen check ```Add Python 3.9 to PATH``` checkbox and then click ```Install Now```
     - It's very important to check this box or else you will have to add the Python to your PATH manually and that's not fun
 <img src="images/python_2.jpg" width="400">
 
@@ -26,11 +27,11 @@ Contains the Jupyter Notebook and setup/installations instructions to run the no
 
 ### Installing JupyterLab
 JupyterLab is the development environment we will be using for this workshop. The official JupyterLab documentation is found [here](https://jupyterlab.readthedocs.io/en/stable/).
-1. Inside your command prompt install Jupyter with 
+Inside your command prompt install Jupyter with 
 ```bash
 pip install jupyterlab
 ```
-1. Now you can launch Jupyter with
+Now you can launch Jupyter with
 ```bash
 jupyter-lab
 ```
@@ -38,17 +39,20 @@ or
 ```bash
 python -m jupyter lab
 ```
-1. A browser should open with your Jupyter environment. In the left side pane, navigate to the ```Documents``` folder or whichever folder you would like to save the Jupyter Notebook in
+A browser should open with your Jupyter environment. In the left side pane, navigate to the ```Documents``` folder or whichever folder you would like to save the Jupyter Notebook in
+
 <img src="images/jupyter_1.JPG" width="500">
 
-2. Click the ```New Folder``` button in the top left (right of the blue +), name it ```Jupyter```, then navigate inside the ```Jupyter``` folder
-3. Download the Jupyter Notebook [here](https://drive.google.com/uc?export=download&id=1oofAdu5_vtJOdWCGINXhS3Wd4OxOXsVj) and drag and drop it anywhere inside the white space of the left side pane to import the notebook
+Click the ```New Folder``` button in the top left (right of the blue +) and name it ```Jupyter```, then navigate inside the ```Jupyter``` folder.
+Download the [Jupyter Notebook Here](https://drive.google.com/uc?export=download&id=1oofAdu5_vtJOdWCGINXhS3Wd4OxOXsVj) and drag and drop it anywhere inside the white space of the left side pane to import the notebook
+
 <img src="images/jupyter_3.JPG" width="200">
 
-4. Once the notebook is imported double click the ```intro-to-machine-learning.ipynb``` file to open the notebook
-5. Run the first two cells using ```shift+enter``` keys (the second cell has all the ```import``` statements). 
+Once the notebook is imported double click the ```intro-to-machine-learning.ipynb``` file to open the notebook
+Run the first two cells using the ```shift+enter``` keys (the second cell has all the ```import``` statements). 
     - The first cell downloads the libraries used in the notebook __This cell will take around 10 minutes to install everything__
     - The second cell imports the libraries which will ensure they installed correctly
+   
 <img src="images/jupyter_4.PNG" width="600">
 
-6. If the first two cells run fine and do not produce any red output, everything is set up properly  
+If the first two cells run fine and do not produce any red output, everything is set up properly  
