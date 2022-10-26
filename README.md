@@ -42,7 +42,15 @@ python -m jupyter lab
 <img src="images/jupyter_1.JPG" width="500">
 
 2. Click the ```New Folder``` button in the top left (right of the blue +), name it ```Jupyter```, then navigate inside the ```Jupyter``` folder
-2. Download the Jupyter Notebook [here](https://drive.google.com/uc?export=download&id=1oofAdu5_vtJOdWCGINXhS3Wd4OxOXsVj) and drag and drop it anywhere inside the white space of the left side pane
+3. Download the Jupyter Notebook [here](https://drive.google.com/uc?export=download&id=1oofAdu5_vtJOdWCGINXhS3Wd4OxOXsVj) and drag and drop it anywhere inside the white space of the left side pane to import the notebook
 <img src="images/jupyter_3.JPG" width="200">
+
+4. Once the notebook is imported double click the ```intro-to-machine-learning.ipynb``` file to open the notebook
+5. Run the first two cells using ```shift+enter``` keys (the second cell has all the ```import``` statements)
+    - The first cell downloads the libraries used in the notebook
+    - The second cell imports the libraries which will ensure they installed correctly
+<img src="images/jupyter_4.JPG" width="200">
+
+6. Everything is now setup properly if the first two cells run fine and do not produce any red output 
 
 
