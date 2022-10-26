@@ -38,7 +38,11 @@ or
 ```bash
 python -m jupyter lab
 ```
-1. A browser should open with your Jupyter environment. In the left side pane, navigate to the ```Documents``` folder or whichever folder you would like to save the Jupyter Notebook
-<img src="images/python_3.jpg" width="500">
+1. A browser should open with your Jupyter environment. In the left side pane, navigate to the ```Documents``` folder or whichever folder you would like to save the Jupyter Notebook in
+<img src="images/jupyter_1.jpg" width="500">
 
-[here](https://drive.google.com/uc?export=download&id=1oofAdu5_vtJOdWCGINXhS3Wd4OxOXsVj)
+2. Click the ```New Folder``` button in the top left (right of the blue +), name it ```Jupyter```, then navigate inside the ```Jupyter``` folder
+2. Download the Jupyter Notebook [here](https://drive.google.com/uc?export=download&id=1oofAdu5_vtJOdWCGINXhS3Wd4OxOXsVj) and drag and drop it anywhere inside the white space of the left side pane
+<img src="images/jupyter_3.jpg" width="500">
+
+
