@@ -46,11 +46,9 @@ python -m jupyter lab
 <img src="images/jupyter_3.JPG" width="200">
 
 4. Once the notebook is imported double click the ```intro-to-machine-learning.ipynb``` file to open the notebook
-5. Run the first two cells using ```shift+enter``` keys (the second cell has all the ```import``` statements)
-    - The first cell downloads the libraries used in the notebook
+5. Run the first two cells using ```shift+enter``` keys (the second cell has all the ```import``` statements). 
+    - The first cell downloads the libraries used in the notebook __This cell will take around 10 minutes to install everything__
     - The second cell imports the libraries which will ensure they installed correctly
-<img src="images/jupyter_4.PNG">
+<img src="images/jupyter_4.PNG" width="600">
 
-6. If the first two cells run fine and do not produce any red output, everything is setup properly  
-
-
+6. If the first two cells run fine and do not produce any red output, everything is set up properly  
